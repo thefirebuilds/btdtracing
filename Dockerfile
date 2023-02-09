@@ -1,2 +1,2 @@
-FROM hypriot/rpi-busybox-httpd
+FROM hypriot/rpi-busybox-httpd:latest@sha256:d77a72e532ac5819e7544a399939ad0ca640156b36c5f9aed041335a2aa46bb8
 EXPOSE 80
